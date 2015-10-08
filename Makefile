@@ -1,8 +1,8 @@
 # ------------------------------------------------------------------------
 # Set this to the name of your project / website
 # ------------------------------------------------------------------------
-PROJECT_ID := inasafeorg
-PASSWORD := wheatsworth499
+PROJECT_ID := kartozacom
+PASSWORD := certificate
 
 # ------------------------------------------------------------------------
 # Should not normally need to change anything below this point....
